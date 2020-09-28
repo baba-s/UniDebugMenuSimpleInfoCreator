@@ -5,5 +5,8 @@
     "unity": "2019.2",
     "author": "baba-s",
     "description": "",
-    "dependencies": {}
+    "dependencies": {},
+    "gitDependencies": {
+      "com.baba-s.uni-debug-menu": "https://github.com/baba-s/UniDebugMenu.git"
+    }
 }
